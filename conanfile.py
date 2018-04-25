@@ -8,7 +8,7 @@ import os
 
 class QtConan(ConanFile):
     name = "Qt"
-    version = "5.11"
+    version = "5.9"
     description = "Conan.io package for Qt library."
     url = "https://github.com/lucienboillod/conan-qt"
     license = "http://doc.qt.io/qt-5/lgpl.html"
